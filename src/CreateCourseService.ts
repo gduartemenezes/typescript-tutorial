@@ -8,3 +8,6 @@ class CreateCourseService {
         console.log(name, duration, educator)
     }
 }
+
+
+export default new CreateCourseService()
